@@ -28,7 +28,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://98.91.220.8:8081/repository/MyMaven/</url>
+		    <url>http://98.91.220.8:8081/</url>
 		 </snapshotRepository>
 		
 		<repository>
